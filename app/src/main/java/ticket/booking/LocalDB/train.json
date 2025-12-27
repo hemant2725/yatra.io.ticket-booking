@@ -1,0 +1,15 @@
+[
+  {
+    "train_id": "12345",
+    "train_no": "EXP-101",
+    "station_times": {
+      "Lucknow": "10:00 AM",
+      "Kanpur": "12:00 PM",
+      "Delhi": "06:00 PM"
+    },
+    "seats": [
+      [0, 0, 0],
+      [0, 0, 0]
+    ]
+  }
+]
